@@ -1,0 +1,20 @@
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1957
+
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1963
+
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1968
+
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1976
+
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1948
+
+C:\Python27\program>python yearsort.py
+The year with the most living number of people was:1970
+
+C:\Python27\program>python yearsort.py
+The years with the most living number of people were:1959, 1960, 1964, 1966
